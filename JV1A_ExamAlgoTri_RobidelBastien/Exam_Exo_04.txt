@@ -1,0 +1,7 @@
+4/  Le tri à bulles est considéré comme très lent, et l'est. 
+Puisque, comparé aux autres algorithme de tri, l'algorithme de tri à bulles doit parcourir toute la liste, une fois, pour ne ranger qu'un seul élément.
+C'est-à-dire que pour chaques éléments de la liste, l'algorithme parcourt la liste pour savoir ou le placer.
+
+Il est en complexité O(n). 
+Donc plus la taille de la liste augmente, plus le temps pour trier cette dernière augmentera proportionellement avec l'algorithme de tri à bulle
+
